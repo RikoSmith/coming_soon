@@ -202,12 +202,12 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-  background: #7579ff;
-  background: -webkit-linear-gradient(bottom, #b224ef, #7579ff);
-  background: -o-linear-gradient(bottom, #b224ef, #7579ff);
-  background: -moz-linear-gradient(bottom, #b224ef, #7579ff);
-  background: linear-gradient(bottom, #b224ef, #7579ff);
-  opacity: 0.3;
+  background: rgb(231, 82, 134);
+  background: -webkit-linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
+  background: -o-linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
+  background: -moz-linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
+  background: linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
+  opacity: 0.9  ;
 }
 
 .overlay1::after {
@@ -278,7 +278,9 @@ Primary use:
 /*---------------------------------------------*/
 
 
-
+#logo-choir {
+  width: 19%
+}
 
 
 
@@ -308,6 +310,9 @@ Primary use:
   .p-r-15-xl {padding-right: 15px;}
 
   .w-full-xl {width: 100%;}
+  #logo-choir {
+    width: 20%
+  }
 
   /*---------------------------------------------*/
 
@@ -334,6 +339,9 @@ Primary use:
   .p-r-15-lg {padding-right: 15px;}
 
   .w-full-lg {width: 100%;}
+  #logo-choir {
+    width: 20%
+  }
 
   /*---------------------------------------------*/
 
@@ -361,6 +369,9 @@ Primary use:
   .p-r-15-md {padding-right: 15px;}
 
   .w-full-md {width: 100%;}
+  #logo-choir {
+    width: 23%
+  }
   /*---------------------------------------------*/
 
 }
@@ -391,6 +402,10 @@ Primary use:
   .respon1 {
     font-size: 45px;
   }
+
+  #logo-choir {
+    width: 20%
+  }
   
 }
 
@@ -415,6 +430,10 @@ Primary use:
   .p-r-15-ssm {padding-right: 15px;}
 
   .w-full-ssm {width: 100%;}
+
+  #logo-choir {
+    width: 30%
+  }
   /*---------------------------------------------*/
 
 }
