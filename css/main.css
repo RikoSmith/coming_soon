@@ -207,7 +207,7 @@ Primary use:
   background: -o-linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
   background: -moz-linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
   background: linear-gradient(bottom, DeepPink, rgb(231, 82, 134));
-  opacity: 0.9  ;
+  opacity: 0.8  ;
 }
 
 .overlay1::after {
@@ -279,7 +279,7 @@ Primary use:
 
 
 #logo-choir {
-  width: 19%
+  width: 12%
 }
 
 
@@ -370,7 +370,7 @@ Primary use:
 
   .w-full-md {width: 100%;}
   #logo-choir {
-    width: 23%
+    width: 25%
   }
   /*---------------------------------------------*/
 
@@ -404,7 +404,7 @@ Primary use:
   }
 
   #logo-choir {
-    width: 20%
+    width: 28%
   }
   
 }
@@ -432,7 +432,7 @@ Primary use:
   .w-full-ssm {width: 100%;}
 
   #logo-choir {
-    width: 30%
+    width: 35%
   }
   /*---------------------------------------------*/
 
